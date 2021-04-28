@@ -13,7 +13,6 @@ Feature: Open Ocean Studo Crew application
       | Interviewing | 0     |
       | Hired        | 1     |
 
-  @run
   Scenario: Crew application movement
     Given the crew application is launched
     When the crew application is loaded
