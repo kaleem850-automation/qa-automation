@@ -1,4 +1,4 @@
-## QA UI Automation Framework with Cypress
+## QA UI Automation Framework with Selenium, Spring DI
 
 ### Highlights
 * Page object model
